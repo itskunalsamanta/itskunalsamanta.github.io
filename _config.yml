@@ -37,7 +37,7 @@ repo_theme_dark: dark # https://github.com/stats-organization/github-stats-exten
 # point external_services.github_profile_trophy_url at your instance, then set
 # enabled: true. See docs/CUSTOMIZE.md.
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -244,6 +244,12 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  - _pages/blog.md
+  - _pages/books.md
+  - _pages/teaching.md
+  - _pages/repositories.md
+  - _pages/cv.md
+  - _pages/projects.md
 keep_files:
   - CNAME
   - .nojekyll
