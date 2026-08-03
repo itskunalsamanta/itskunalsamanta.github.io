@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-07-05
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Presenting my paper on multi party dialogue simulation and LLM judge evaluation gap at [ACL 2026](https://2026.aclweb.org/) in San Diego, CA! 🏖️
