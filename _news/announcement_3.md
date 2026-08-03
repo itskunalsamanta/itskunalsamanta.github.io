@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-08-03
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I'll be attending the [AI in Finance Summer School](https://www.aifsummerschool.com/) organized by [RBC Borealis](https://rbcborealis.com/) in Vancouver from 24-27 August.
