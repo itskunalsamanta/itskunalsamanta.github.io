@@ -26,7 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hi 👋! I'm an incoming PhD Student at the [University of British Columbia](https://www.ubc.ca/) starting in Fall 2026, and I will be a part of the [UBC NLP Group](https://nlp.cs.ubc.ca/), advised by [Prof. Peter West](https://peterwestai.notion.site/).
+Hi 👋! I'm a first year PhD Student at the [University of British Columbia](https://www.ubc.ca/), and I am part of the [UBC NLP Group](https://nlp.cs.ubc.ca/), advised by [Prof. Peter West](https://peterwestai.notion.site/).
 
 My research interests broadly include:
 - Understanding creativity/novelty of language models in open-ended settings.
